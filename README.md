@@ -1,3 +1,10 @@
+# Phu Truong Personal Portfolio
+
+This is the modified code for my personal website to display my portfolio and resume.
+
+The template code is taken from Start Bootstrep.  Further information is described below.
+
+
 # [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
 [Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
